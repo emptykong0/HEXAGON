@@ -1,0 +1,5 @@
+.godot/
+test-results/
+*.tmp
+.build/
+dist/
