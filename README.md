@@ -1,4 +1,4 @@
-# HEXAGON：Godot 联机原型
+# HEXAGON：一款基于 Godot 的游戏
 
 使用 Godot 4.3 或更新的 Godot 4 标准版导入 `project.godot`，按 F6/F5 运行。无第三方依赖。
 
